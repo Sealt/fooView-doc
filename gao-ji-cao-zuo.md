@@ -1,0 +1,36 @@
+# 高级操作
+
+> \[danger\] 可能造成一些未知问题，请谨慎操作
+
+## **无障碍高级版**
+
+Android 7.0 以上系统无障碍（辅助）功能分为基础版和高级版。当前版本所有功能都在基础版中，高级版具有一些新开发的手势功能（如微信对话取词，长截图滚屏，录制动作时使用手势等），如果高级版遇到性能问题如严重掉帧等（系统Bug），可以切换到基础版。
+
+## **权限提升**
+
+本命令用于提升 fooView 在手机上的权限，自动获取无障碍权限。 高级功能中增加了adb指令，剪贴板监控和防辅助功能被杀。 请在PC端使用 ADB 来执行以下命令，手机端执行时请删除 adb shell。
+
+* 提升权限
+
+> \[danger\] adb shell pm grant com.fooview.android.fooview android.permission.WRITE\_SECURE\_SETTINGS
+
+* 恢复权限
+
+> \[danger\] adb shell pm revoke com.fooview.android.fooview android.permission.WRITE\_SECURE\_SETTINGS
+
+## **备份信息**
+
+fooView 除了设置以外的信息都存储在 .fooView 目录中，在刷机或恢复出厂设置前，可复制本文件夹到安全的地方，待重新安装fooView后再把文件夹复原。
+
+设置备份可通过自带功能实现（保存在 fooViewSave）。
+
+## **开启日志记录**
+
+当你的fooView无响应乃至崩溃时，请进入全局搜索，在搜索栏输入代码并回车。
+
+> \[danger\] fvconfig.log.on
+>
+> fvconfig.log.off
+
+开启成功后请重新操作一遍出现问题的过程，让其记录到日志中。 记录成功后会在根目录生成文件fv\_log.txt，将其发送给官方即可。 然后可输入第二条off关闭日志记录。
+

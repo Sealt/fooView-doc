@@ -1,0 +1,10 @@
+# 下载管理
+
+> \[info\] 通过 fooView 下载的文件都在这记录着
+
+* **多线程**：支持多线程下载，最高32线程，下载前将弹出下载设置。
+* **下载位置**：默认保存位置为/sdcard/Download/，可自定义。
+* **支持类型**：目前仅支持URL新建下载。
+
+![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrck7hl91j20u01hcwh4.jpg)
+
