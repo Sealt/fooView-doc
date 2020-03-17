@@ -7,7 +7,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Sealt/fooView-doc)](https://github.com/Sealt/fooView-doc/stargazers)
 [![GitHub release](https://img.shields.io/github/release/Sealt/fooView-doc)](https://github.com/Sealt/fooView-doc/releases/latest)
 
-这可能是世界上最详细的 FV 悬浮球 - fooView 使用文档，随软件更新而更新。
+这可能是世界上最详细的 FV 悬浮球 - fooView 使用文档，持续更新中。
 
 ## 介绍 Introducation
 
@@ -57,7 +57,7 @@ ES文件浏览器原作者开发了 FV 悬浮球，它提供了非常强大并�
 
 ### 在线阅读
 
-[KanCloud](https://www.kancloud.cn/sealt/fooview/content)  | [GitBook](https://sealt.gitbook.io/fooview/) 
+[KanCloud](https://www.kancloud.cn/sealt/fooview/content) (大版本更新) | [GitBook](https://sealt.gitbook.io/fooview/) (同步 GitHub 最新版本)
 
 ### 图床
 * [新浪图床 Chrome 插件](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf)
