@@ -35,13 +35,14 @@ ES文件浏览器原作者开发了 FV 悬浮球，它提供了非常强大并�
 - 国内各大应用商店：MIUI / 华为 / Vivo / Oppo ……
 - [GooglePlay](https://play.google.com/store/apps/details?id=com.fooview.android.fooview)：全球 5,000,000+ 用户 
 
-安装后请按照软件提示授予权限：
+为保证软件各项功能正常，安装后请按照软件提示授予权限：
 
 * 悬浮窗权限
 * 辅助功能权限
 * 通知栏权限
 * 设备管理器
 * 锁定 FV 悬浮球
+* 部分系统还需要允许常驻通知、后台弹出界面、剪贴板、读写手机存储权限
 
 ### 反馈/交流 Issue/Exchange
 
@@ -53,16 +54,39 @@ ES文件浏览器原作者开发了 FV 悬浮球，它提供了非常强大并�
 ## 文档说明 Document
 
 本文档为酷友 @Sealt 攥写的第三方帮助文档，现已开源至 Github。  
-欢迎志同道合的朋友们来一起共同完善本介绍文档，也欢迎英文爱好者完成英文版本。
 
-### 在线阅读
+### 协作 Teamwork
 
-[KanCloud](https://www.kancloud.cn/sealt/fooview/content) (大版本更新) | [GitBook](https://sealt.gitbook.io/fooview/) (同步 GitHub 最新版本)
+欢迎您通过提交 issue、pull request 以及联系我等方式：
 
-### 图床
+* 创新优化文档结构，补充和完善已有的文档结构；
+
+* 进一步完善文档内各个功能模块的详解，提供精美的讲解配图；
+
+* 创建多语言文档翻译项目，为全球用户提供最优秀的介绍文档；
+
+* 提交自定义任务命令支持库条目，提交优秀任务例程和个人经验；
+
+我们希望你突破现有文档拘束，自由大胆的提交你的任何修改建议。
+
+> 协作者注意：Github Markdown 在需要换行的行末尾添加两个空格才可正常显示
+
+### 在线阅读 Reading Online
+
+请根据您的网络条件，选择不同的在线阅读方式。
+
+* [KanCloud](https://www.kancloud.cn/sealt/fooview/content)：不定期同步重要更新 
+* [GitBook](https://sealt.gitbook.io/fooview/)：同步 GitHub 最新版本
+
+### 图床 Image Hosting
+
+为文档配图提供稳定、长期的服务，协作者请选择适合用户阅读的图床。  
+请协作者同时保存一份源文件在项目`assets`文件夹中。
+
 * [新浪图床 Chrome 插件](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf)
+* [Imgur](https://imgur.com/)
 
-### 联系我
+### 联系我 Contact me
 
 如果有什么纰漏或建议欢迎各位指出。  
 您可以对文章发出 issue，也可以通过我的联系方式沟通文章问题。  
