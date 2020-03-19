@@ -1,4 +1,4 @@
-<img src="assets/logo.webp" alt="logo" style="zoom:67%;" />
+![](./assets/foo_icon.png)
 
 # fooView 功能详解
 
@@ -81,7 +81,10 @@ ES文件浏览器原作者开发了 FV 悬浮球，它提供了非常强大并�
 ### 图床 Image Hosting
 
 为文档配图提供稳定、长期的服务，协作者请选择适合用户阅读的图床。  
-请协作者同时保存一份源文件在项目`assets`文件夹中。
+
+* 使用相对路径导入图片，注意区分`./`以及`../`
+* 大型配图请使用图床并将副本存至`./assets/picture`
+* `PicLink`为副本与网络连接对照表，请保持相互对应。
 
 * [新浪图床 Chrome 插件](https://chrome.google.com/webstore/detail/%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A%E5%9B%BE%E5%BA%8A/fdfdnfpdplfbbnemmmoklbfjbhecpnhf)
 * [Imgur](https://imgur.com/)
