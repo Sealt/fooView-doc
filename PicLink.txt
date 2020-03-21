@@ -8,7 +8,6 @@
 剪贴条：![jiantietiao.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrcxrvyerj20u00k6gq5.jpg)
 剪贴板：![jiantieban.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrcxzk70wj20u01hcn3k.jpg)
 录屏：![luping.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrd6vymonj20u01fc7fq.jpg)
-录屏结果页：![lupingjieguo.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1gctvkdqgjpj20u00mbab0.jpg)
 视频编辑：![shipinbianji.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrcvo5toaj20u01hcwls.jpg)
 数字处理：![shuzichuli.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1gczjy7jmwzj20u00q7776.jpg)
 图片编辑：![tupianbianji.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrctjf2rkj20u01hckjl.jpg)
@@ -37,9 +36,10 @@ OCR：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzr8u7yu4sj20u0103dr9.jpg)
 快速访问：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzraxt7k27j20u01fctd5.jpg)
 历史记录：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrangs555j20t00t576c.jpg)
 全局搜索：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrbvpis30j20u01fcjww.jpg)
-自定义任务renwufenxiang：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzt4vyamgsj20u01fc797.jpg)
+
 renwu1：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzt5oxkc82j20u00a9aan.jpg)
 renwu2：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzt5piq3rbj20u01fc78p.jpg)
+
 收藏：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrak98zi0j20u01hc40y.jpg)
 搜索：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrc13ubk5j20u01hcad9.jpg)
 发现相机：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrbj74z1pg20dc0npkjl.gif)
@@ -58,11 +58,11 @@ wenjiantuodong1 2
 远程管理：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzrbkkjrsmj20u00sa0wl.jpg)
 账号：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzryzv06wdj20u01fcn0o.jpg)
 主窗口：![](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzra8x5nksj20u01fcqbl.jpg)
-主题：![baizhuti](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzr9wu8x89j20u00nwgme.jpg)
-![heizhuti](http://ww1.sinaimg.cn/large/6b1dd0a7ly1fzr9wtzl1nj20u00o5t9f.jpg)
+主题：![zhutiliulan.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1gd1oqn34kfj25001cnx6r.jpg)
 
-
-
+![dongzuoluzhi.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1gd1k1dp1j6j20tr0hd3zt.jpg)
+![guanjiancikapian.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1gd1img8croj20u00tegny.jpg)
+![guanjianci.png](http://ww1.sinaimg.cn/large/6b1dd0a7ly1gd1ih8bhdcj20u01830x0.jpg)
 
 
 
