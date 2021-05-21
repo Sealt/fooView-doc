@@ -5,7 +5,7 @@
 
 ### 网盘
 
-Google 云端硬盘、Yandex、百度网盘、OneDrive。
+Google 云端硬盘、Yandex、百度网盘、OneDrive、和彩云、天翼云。
 
 ### FTP/FTPS/SFTP
 
